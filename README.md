@@ -59,8 +59,8 @@
 
 ### My GitHub Stats:
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kavindu54321&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Kavindu's GitHub stats" />
-   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu54321&theme=algolia" alt="GitHub Streak" />
+  <img align="left"width="300"src="https://github-readme-stats.vercel.app/api?username=kavindu54321&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Kavindu's GitHub stats" />
+   <img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu54321&theme=algolia" alt="GitHub Streak" />
  
 </p>
 
