@@ -10,11 +10,11 @@
 
 
   <img align="right" width="280" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding gif" /><br />
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps). 😎
-- 🌱 Trying to become an expert in Fullstack development ❤
-- 💻 I love exploring new tech stacks and building cool stuff.
-- 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn Cloud on AWS and Azure.
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps). 😎<br />
+- 🌱 Trying to become an expert in Fullstack development ❤<br />
+- 💻 I love exploring new tech stacks and building cool stuff.<br />
+- 📰 Reading tech documentation whenever possible.<br />
+- 🥅 2024 Goals: Learn Cloud on AWS and Azure.<br />
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣<br />
 
 ---
