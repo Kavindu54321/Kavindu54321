@@ -68,10 +68,3 @@
 
 ---
 
-### Top Repositories
-<a href="https://github.com/kavindu54321/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kavindu54321&repo=developer-portfolio&theme=algolia" />
-</a>
-<a href="https://github.com/kavindu54321/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kavindu54321&repo=Express-Postgres-blog&theme=algolia" />
-</a>
