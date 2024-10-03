@@ -59,16 +59,16 @@
 
 ### My GitHub Stats:
 <p>
-  <img align="left"width="300" src="https://github-readme-stats.vercel.app/api?username=kavindu54321&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Kavindu's GitHub stats" />
+  <img align="left"width="400" src="https://github-readme-stats.vercel.app/api?username=kavindu54321&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Kavindu's GitHub stats" />
 </p><br>
 <p>
-  <img align="right"width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu54321&theme=algolia" alt="GitHub Streak" />
+  <img align="right"width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu54321&theme=algolia" alt="GitHub Streak" />
 </p>
 
 <div align="center">
   
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu54321&layout=compact&theme=algolia&hide_border=true&&langs_count=10" /> 
+  <img align="center"width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu54321&layout=compact&theme=algolia&hide_border=true&&langs_count=10" /> 
 </div>
 ---
 
