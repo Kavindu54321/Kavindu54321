@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+KAVINDU+DANANJAYA..;Nice+to+meet+you!&center=true&size=30">
   </a>
-  <p align="center">A passionate Software Developer from Sri Lanka</p>
+  <p align="center">A passionate Software Developer from Sri Lanka 👨‍💻</p>
   <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=kavindu54321&label=Profile%20views&color=brightgreen&style=flat" alt="kavindu54321" /> 
 </p>
