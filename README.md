@@ -59,14 +59,16 @@
 
 ### My GitHub Stats:
 <p>
-  <img align="left"width="350" src="https://github-readme-stats.vercel.app/api?username=kavindu54321&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Kavindu's GitHub stats" />
-   <img align="right"width="371" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu54321&theme=algolia" alt="GitHub Streak" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kavindu54321&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Kavindu's GitHub stats" />
+   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu54321&theme=algolia" alt="GitHub Streak" />
  
-</p><br>
-<p>
-  <img align="center" width=200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu54321&layout=compact&theme=algolia&hide_border=true&&langs_count=10" /> 
 </p>
+
+### Top Usage Languages:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu54321&layout=compact&theme=algolia&hide_border=true&&langs_count=10" /> 
+</div>
  
 ---
 
