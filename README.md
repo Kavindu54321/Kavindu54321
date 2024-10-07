@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+KAVINDU+DANANJAYA..;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+KAVINDU+DANANJAYA.;Nice+to+meet+you!&center=true&size=30">
   </a>
   <p align="center">A passionate Software Developer from Sri Lanka <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="60px"></p>
   <p align="center"> 
